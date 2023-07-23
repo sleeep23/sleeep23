@@ -12,7 +12,7 @@
 - 💅 I like to focus on design and UX/UI while developing!  
   
 
-- 😙 I’m currently working on [Gijol version 2!](https://github.com/Gijol/gijol-v2)  
+- 😙 I’m currently working on [Gijol version 2](https://github.com/Gijol/gijol-v2) and [Mefeto version 2!](https://github.com/Mefeto/Mefeto-v2-fe)
   
 
 - 💖 I like to use NextJS, React, Typescript 💖  

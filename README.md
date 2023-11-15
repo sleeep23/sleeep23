@@ -9,10 +9,10 @@
 ### I'm Dongho Seo, a Front-End developer👨‍💻    
   
 
-- 💅 I like to focus on design and UX/UI while developing!  
+- 💅 I like to focus on design and UI/UX while developing!  
   
 
-- 😙 I’m currently working on [Gijol version 2](https://github.com/Gijol/gijol-v2) and [Gijol admin!](https://github.com/Gijol/gijol-admin)
+- 😙 I’m currently working on [My Persnoal Blog version 2](https://github.com/sleeep23/blog-v2) [Gijol version 2](https://github.com/Gijol/gijol-v2) and [Gijol admin!](https://github.com/Gijol/gijol-admin)
   
 
 - 💖 I like to use NextJS, React, Typescript 💖  

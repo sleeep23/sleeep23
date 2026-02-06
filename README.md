@@ -6,7 +6,7 @@
 # Hi there 👋  
   
 
-### I'm Dongho Seo, a Front-End developer👨‍💻    
+### I'm Dongho Seo, a Developer👨‍💻    
   
 
 - 💅 I like to focus on design and UI/UX while developing!  
